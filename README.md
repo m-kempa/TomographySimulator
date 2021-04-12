@@ -1,1 +1,2 @@
 # TomographySimulator
+![](kroki.gif)
